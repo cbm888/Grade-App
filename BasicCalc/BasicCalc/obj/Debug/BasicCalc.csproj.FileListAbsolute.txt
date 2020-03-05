@@ -1,0 +1,7 @@
+I:\Var\Lib\Git\BasicCalc\BasicCalc\obj\Debug\BasicCalc.csprojAssemblyReference.cache
+I:\Var\Lib\Git\BasicCalc\BasicCalc\obj\Debug\BasicCalc.csproj.CoreCompileInputs.cache
+I:\Var\Lib\Git\BasicCalc\BasicCalc\bin\Debug\BasicCalc.exe.config
+I:\Var\Lib\Git\BasicCalc\BasicCalc\bin\Debug\BasicCalc.exe
+I:\Var\Lib\Git\BasicCalc\BasicCalc\bin\Debug\BasicCalc.pdb
+I:\Var\Lib\Git\BasicCalc\BasicCalc\obj\Debug\BasicCalc.exe
+I:\Var\Lib\Git\BasicCalc\BasicCalc\obj\Debug\BasicCalc.pdb
